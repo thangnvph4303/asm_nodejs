@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Thắng 2",
+      "price": 100,
+      "image": "sdjhfscdkmcsd,",
+      "desc": "dsjfgkhcsdlcnjdbs",
+      "cate_id": "12"
+    },
+    {
+      "id": 3,
+      "name": "Thắng 3",
+      "price": 100,
+      "image": "sdjhfscdkmcsd,",
+      "desc": "dsjfgkhcsdlcnjdbs",
+      "cate_id": "12"
+    },
+    {
+      "id": 4,
+      "name": "Thắng 4",
+      "price": 100,
+      "image": "sdjhfscdkmcsd,",
+      "desc": "dsjfgkhcsdlcnjdbs",
+      "cate_id": "12"
+    },
+    {
+      "name": "kusdjbfnm",
+      "price": "23985",
+      "image": "jhsmbcnds",
+      "desc": "mhsmdbnxc",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "name": "jykhdfk.gl,./",
+      "id": 2
+    },
+    {
+      "name": "Linh",
+      "id": 3
+    }
+  ]
+}
